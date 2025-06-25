@@ -33,7 +33,7 @@ const HomeScreen = ({ onStartTest }: { onStartTest: () => void }) => (
         <View style={styles.rankStrip} />
       </View>
       <Text style={styles.tagline}>
-        Se hvor god du er i forhold til deltakerne fra Kompani Lauritzen!
+        Se hvor god du er i forhold til rekruttene fra Kompani Lauritzen!
       </Text>
     </View>
 
@@ -45,7 +45,7 @@ const HomeScreen = ({ onStartTest }: { onStartTest: () => void }) => (
         activeOpacity={0.8}
       >
         <Text style={styles.btnIcon}>🚀</Text>
-        <Text style={styles.btnText}>START TRENINGSTEST</Text>
+        <Text style={styles.btnText}>START OPPTAKSPRØVE</Text>
       </TouchableOpacity>
     </View>
 
