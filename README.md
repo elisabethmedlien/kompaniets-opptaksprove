@@ -7,4 +7,4 @@ Funksjoner:
 - Se en oversiktlig resultatliste med alle deltakere
 
 ## Support
-Kontakt elisabehtmedlien@gmail.com for support
+Kontakt elisabethmedlien@gmail.com for support
